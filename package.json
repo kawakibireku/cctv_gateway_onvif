@@ -1,0 +1,14 @@
+{
+  "name": "gateway_wit",
+  "version": "1.0.0",
+  "description": "cctv_gateway",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dhafin Kawakibi",
+  "license": "ISC",
+  "dependencies": {
+    "node-onvif": "^0.1.7"
+  }
+}
